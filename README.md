@@ -1,6 +1,6 @@
  ### Olá! Eu sou o Yuri Costa! 🫡 
 
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 ## Tecnologias que eu utilizo.
 
@@ -17,15 +17,7 @@
 </div>
 
 <div style="display: inline_block"> <br/>
-  <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-</div>
-
-<div style="display: inline_block"> <br/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-</div>
-
-<div style="display: inline_block"> <br/>
-  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
 </div>
 
 <div style="display: inline_block"> <br/>
