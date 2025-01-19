@@ -1,26 +1,47 @@
- ### Olá! Eu sou o Yuri Costa! 🫡 
+# 💻 Yuri Costa
+
+**`Developer student (Back-End / studying at PUC / Content Creator)`**
+
+I'm a Software Engineer student, currently focusing on learning how to develop, create, maintain and scale applications. All my projects are built from the ground, going through planning, architeting and designing the best way to build the application. I have a YouTube Channel, that i share technical experiences, life experiences, and comment on some things!
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Java" width="60px" style="padding-down:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<br />
 
 
+<br><br>
 
-## Tecnologias que eu utilizo.
+#
 
-<div style="display: inline_block"> <br/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-</div>
+### 📊 Stats
 
-<div style="display: inline_block"> <br/>
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-Costa09)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"> <br/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-</div>
+#
 
-<div style="display: inline_block"> <br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-</div>
+<details>
+ <summary><h3>💻 Yuri's Coding Journey</h3></summary>
+ I started my coding journey at the age of 16. I’ve always been fascinated by coding and programming—it felt almost magical to me. My first steps as a "developer" were humble; I created a (rather basic) HTML page.
 
-<div style="display: inline_block"> <br/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-</div>
+At 17, I began diving deeper into programming, exploring the fundamentals of low-level programming. I learned about memory allocation in C, data structures, and how memory works, which gave me a solid foundation to grow from.
+
+Since then, my focus has primarily been on Back-End development. I’ve worked on creating RESTful APIs, studying scalable architectures, and understanding system design principles.
+
+Nowadays, I’m delving even further into advanced concepts, such as designing scalable applications that meet complex requirements. I absolutely love what I do, and I’m passionate about continuously improving and learning more.
+
+I have ambitious goals for my career, and I work hard every day to achieve them!
+ 
 
