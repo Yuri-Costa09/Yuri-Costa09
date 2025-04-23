@@ -1,6 +1,6 @@
 # 💻 Yuri Costa
 
-**`Developer student (Back-End / studying at PUC)`**
+**`Software Engineer`**
 
 I'm a Software Engineer student, currently focusing on learning how to develop, create, maintain and scale applications. All my projects are built from the ground, going through planning, architeting and designing the best way to build the application. 
 
