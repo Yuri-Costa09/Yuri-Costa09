@@ -1,47 +1,71 @@
-# 💻 Yuri Costa
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-**`Software Engineer`**
+###
 
-I'm a Software Engineer student, currently focusing on learning how to develop, create, maintain and scale applications. All my projects are built from the ground, going through planning, architeting and designing the best way to build the application. 
+<h1 align="center">Hey There! I'm Yuri 👋</h1>
 
----
+###
 
-### 🧰 Languages and Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="70" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="70" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="70" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="70" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="70" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="70" alt="vim logo"  />
+</div>
 
-<img align="left" alt="TS" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="TS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="left" alt="TS" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="REACT" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="CSHARP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="CSHARP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="DOTNET" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img align="left" alt="MYSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="LINUX" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="PYTHON" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<img align="left" alt="GITHUB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<br />
+###
 
+<div align="center">
+</div>
 
-<br><br>
+###
 
-#
+<p align="left">Software Engineer passionate about backend development, distributed systems, and the art of understanding how things work under the hood. Been writing code since 16 and never stopped. Currently exploring CS fundamentals, low-level programming, and operating systems.</p>
 
-### 📊 Stats
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-Costa09)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=bisque&right_color=aliceblue"  />
+</div>
 
-#
+###
 
-<details>
- <summary><h3>💻 Yuri's Coding Journey</h3></summary>
- I started my coding journey at the age of 16. I’ve always been fascinated by coding and programming—it felt almost magical to me. My first steps as a "developer" were humble; I created a (rather basic) HTML page.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-Costa09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Costa09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-At 17, I began diving deeper into programming, exploring the fundamentals of low-level programming. I learned about memory allocation in C, data structures, and how memory works, which gave me a solid foundation to grow from.
+###
 
-Since then, my focus has primarily been on Back-End development. I’ve worked on creating RESTful APIs, studying scalable architectures, and understanding system design principles.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-Nowadays, I’m delving even further into advanced concepts, such as designing scalable applications that meet complex requirements. I absolutely love what I do, and I’m passionate about continuously improving and learning more.
-
-I have ambitious goals for my career, and I work hard every day to achieve them!
- 
-
+###
