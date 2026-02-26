@@ -2,9 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
 <img src="assets/yuri-costa-banner.png">
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
@@ -45,7 +43,7 @@
 
 ###
 
-<p align="left">Software Engineer passionate about backend development, distributed systems, and the art of understanding how things work under the hood. Been writing code since 16 and never stopped. Currently exploring CS fundamentals, low-level programming, and operating systems.</p>
+<p align="left">Hey there! my name is Yuri. I'm a Software Engineer passionate about backend development, distributed systems, and the art of understanding how things work under the hood. Been writing code since 16 and never stopped. Currently exploring CS fundamentals, low-level programming, and operating systems.</p>
 
 ###
 
