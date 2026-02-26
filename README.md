@@ -3,9 +3,7 @@
 </div>
 
 ###
-
-<h1 align="center">Hey There! I'm Yuri 👋</h1>
-
+<img src="assets/yuri-costa-banner.png">
 ###
 
 <div align="center">
