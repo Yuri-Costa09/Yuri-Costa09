@@ -45,6 +45,44 @@
 
 <p align="left">Hey there! my name is Yuri. I'm a Software Engineer passionate about backend development, distributed systems, and the art of understanding how things work under the hood. Been writing code since 16 and never stopped. Currently exploring CS fundamentals, low-level programming, and operating systems.</p>
 
+## 🛠️ Open Source Contributions
+
+<p align="left">
+  I'm an active contributor to the <b>Spring Framework</b> ecosystem, focusing on improving performance, modernizing codebases, and enhancing developer experience in high-scale distributed systems.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Contribution</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Spring Cloud Gateway</b></td>
+      <td>
+        <a href="https://github.com/spring-cloud/spring-cloud-gateway/pull/4128">
+          Refactored Host Predicate logic using Java Streams API (Functional Approach)
+        </a>
+      </td>
+      <td><img src="https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github" alt="Merged"></td>
+    </tr>
+    <tr>
+      <td><b>Spring Cloud Gateway</b></td>
+      <td>
+        <a href="https://github.com/spring-cloud/spring-cloud-gateway/pull/4123">
+          Javadocs improvements and removal of deprecated comments
+        </a>
+      </td>
+      <td><img src="https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github" alt="Merged"></td>
+    </tr>
+  </tbody>
+</table>
+
+###
+
 ###
 
 <div align="center">
