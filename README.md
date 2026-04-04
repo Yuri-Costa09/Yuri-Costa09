@@ -47,10 +47,6 @@
 
 ## 🛠️ Open Source Contributions
 
-<p align="left">
-  I'm an active contributor to the <b>Spring Framework</b> ecosystem, focusing on improving performance, modernizing codebases, and enhancing developer experience in high-scale distributed systems.
-</p>
-
 <table>
   <thead>
     <tr>
