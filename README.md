@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Hey there! my name is Yuri. I'm a Software Engineer passionate about backend development, distributed systems, and the art of understanding how things work under the hood. Been writing code since 16 and never stopped. Currently exploring CS fundamentals, low-level programming, and operating systems.</p>
+<p align="left">Hey there! my name is Yuri. I'm a Software Engineer at @MercadoLibre passionate about backend development, distributed systems, and the art of understanding how things work under the hood. Been writing code since 16 and never stopped. Currently exploring Distributed Systems, low-level programming, and cool stuff.</p>
 
 ## 🛠️ Open Source Contributions
 
