@@ -36,11 +36,15 @@
 ###
 
 <p>
-  Software Engineer focused on backend systems, distributed architecture, and financial infrastructure.
+  Hey, I'm Yuri Costa — a Software Engineer at Mercado Libre focused on backend systems, distributed architecture, and financial infrastructure.
 </p>
 
 <p>
-  I’m fascinated by complex systems, resilient architecture, and the engineering decisions that make software behave correctly under pressure.
+  I have been writing code since I was 16, and I’m still fascinated by the engineering behind complex systems: how they fail, recover, scale, and stay correct under pressure.
+</p>
+
+<p>
+  Currently exploring distributed systems, low-level programming, observability, and the fundamentals behind reliable software.
 </p>
 
 ## 🛠️ Open Source Contributions
@@ -76,6 +80,12 @@
 </table>
 
 ###
+
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/yuri-rod-costa/)
+- [Blog](https://medium.com/@yurircosta09)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
